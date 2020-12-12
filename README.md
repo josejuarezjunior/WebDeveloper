@@ -1,2 +1,2 @@
 # WebDeveloper
-HTML / CSS / JAVASCRIPT
+HTML / CSS / JavaScript
